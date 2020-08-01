@@ -1,0 +1,10 @@
+venv/
+terraform-provisioner/.terraform
+terraform-provisioner/anagram.zip
+
+terraform-provisioner/stage/.terraform
+terraform-provisioner/stage/anagram.zip
+
+__pycache__/
+*.py[cod]
+*$py.class
